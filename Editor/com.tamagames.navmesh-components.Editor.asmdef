@@ -1,0 +1,13 @@
+{
+    "name": "com.tamagames.navmesh-components.Runtime",
+    "references": ["com.tamagames.navmesh-components.Runtime"]
+    "optionalUnityReferences": [],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
