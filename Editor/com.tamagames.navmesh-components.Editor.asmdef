@@ -1,6 +1,6 @@
 {
-    "name": "com.tamagames.navmesh-components.Runtime",
-    "references": ["com.tamagames.navmesh-components.Runtime"]
+    "name": "com.tamagames.navmesh-components.Editor",
+    "references": ["com.tamagames.navmesh-components.Runtime"],
     "optionalUnityReferences": [],
     "includePlatforms": ["Editor"],
     "excludePlatforms": [],
